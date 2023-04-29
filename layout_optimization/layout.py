@@ -552,10 +552,6 @@ if __name__ == '__main__':
     #     iteration += 1
     #     print('max relative error:')
     #     print(' ', error, '\n')
-    #     if error < 4.12:
-    #         continue
-    #     if error < 4.45:
-    #         break
     #     if error < min_error:
     #         min_error = error
     #         min_face = faces_generator
